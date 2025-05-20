@@ -315,7 +315,7 @@ const Forms = () => {
       </button>
       <button
         onClick={() => alert('Confirmed!')}
-        className="bg-[#483EFF] text-white !px-6 !py-2 rounded-md font-medium hover:bg-[#3b3cd9]"
+        className="bg-[#03295A] text-white !px-[10px] !py-[8px] rounded-[7px]"
       >
         Confirm
       </button>
